@@ -4,9 +4,9 @@
 
 | Field | Details |
 |---|---|
-| Name | |
-| Register Number | |
-| GitHub Username | |
+| Name | | Abhinek John Thomas
+| Register Number | | 24rr340
+| GitHub Username | | 00abi-glitch
 | Class | S5 CSE |
 | College | Viswajyothi College of Engineering and Technology |
 
